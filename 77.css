@@ -1,0 +1,14 @@
+@font-face{
+	font-family:Cassandr;
+	
+	src: url("font/Cassandr.ttf")    format("truetype"),
+		 url("font/Cassandr.woff")   format("woff"),
+		 url("font/Cassandr.eot")    format("eot"),
+		 url("font/Cassandr.svg#Cassandr")   format("svg");
+	
+	
+} 
+a{
+	font-family:Cassandr;
+	color:red;
+} 

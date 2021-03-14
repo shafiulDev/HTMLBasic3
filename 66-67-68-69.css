@@ -1,0 +1,27 @@
+audio {
+    border: 3px solid red;
+    border-radius: 15px;
+    background-color: black;
+    height: 54px;
+    width: 597px;
+}
+video{
+	width:597px;
+	border:3px solid red;
+	border-radius:20px;
+	background-color:yellow;
+}
+iframe{
+	
+	border:3px solid red;
+	border-radius:20px;
+	background-color:yellow;
+}
+iframe.color{
+	height: 500px;
+	width:597px;
+	border:3px solid red;
+	border-radius:20px;
+	background-color:yellow;
+	
+}
